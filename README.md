@@ -1,4 +1,5 @@
 # truora-serverinfo-vue
+Interfaz usando Vue y BootstrapVue creada para resolver technical exercise propuesto por Truora https://www.truora.com/
 
 ## Project setup
 ```
